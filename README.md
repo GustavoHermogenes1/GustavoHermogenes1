@@ -1,6 +1,8 @@
 <h1 align="center">Hi There 👋, I'm Gustavo Hermógenes</h1>
 <h3 align="center">A passionate Data Science student from Brasil and this is my page.</h3>
 
+- 🔭 I’m currently working on Marketing Dashboard using Power BI
+
 - 🌱 I’m currently learning **Power BI, SQL and Python**
 
 - 📫 How to reach me **gustavo.hermogenes.03@gmail.com**
